@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--    default palette    -->
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
@@ -7,4 +8,66 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!--    color palette    -->
+    <color name="succeed_green">#74D99F</color>
+    <color name="dark_hover_blue">#1A4971</color>
+    <color name="light_theme_blue">#2368A2</color>
+    <color name="light_icon_tint_blue">#AAD4F5</color>
+    <color name="dark_number_green">#1A645D</color>
+    <color name="light_number_bg_green">#6ED7D3</color>
+    <color name="notify_red">#DB3030</color>
+    <color name="text_title_darkest_gray">#212429</color>
+    <color name="text_body_dark_gray">#495057</color>
+    <color name="text_hint_gray">#868E95</color>
+    <color name="icon_tint_light_gray">#ADB5BD</color>
+    <color name="edt_bg_lightest_gray">#EFF2F4</color>
+    <color name="warning_title_dark_brown">#5B4712</color>
+    <color name="warning_body_brown">#8C6D1F</color>
+    <color name="warning_icon_bg_yellow">#F4CA64</color>
+    <color name="warning_divider_light_yellow">#FAE29F</color>
+    <color name="warning_bg_cream">#FFFCF4</color>
+
+    <!--    gray palette    -->
+    <color name="darkest_gray">#11253E</color>
+    <color name="dark_gray">#55667A</color>
+    <color name="gray">#D4DDE9</color>
+    <color name="light_gray">#EDF1F5</color>
+    <color name="lightest_gray">#F5F7FA</color>
+
+    <!--    blue palette    -->
+    <color name="darkest_blue">#12283A</color>
+    <color name="darker_blue">#1A4971</color>
+    <color name="dark_blue">#2368A2</color>
+    <color name="blue">#3183C8</color>
+    <color name="light_blue">#63A2D8</color>
+    <color name="lighter_blue">#AAD4F5</color>
+    <color name="lightest_blue">#EFF8FF</color>
+
+    <!--    green palette   -->
+    <color name="darkest_green">#114443</color>
+    <color name="darker_green">#1B655E</color>
+    <color name="dark_green">#2A9187</color>
+    <color name="green">#3CAEA3</color>
+    <color name="light_green">#6ED7D3</color>
+    <color name="lighter_green">#A8EEEB</color>
+    <color name="lightest_green">#E7FFFE</color>
+
+    <!--    red palette     -->
+    <color name="darkest_red">#5F1717</color>
+    <color name="darker_red">#881A1B</color>
+    <color name="dark_red">#B82020</color>
+    <color name="red">#DC3030</color>
+    <color name="light_red">#E36363</color>
+    <color name="lighter_red">#F4AAAA</color>
+    <color name="lightest_red">#F6E1E2</color>
+
+    <!--    yellow palette  -->
+    <color name="darkest_yellow">#5C4813</color>
+    <color name="darker_yellow">#8C6D1F</color>
+    <color name="dark_yellow">#CAA53D</color>
+    <color name="yellow">#F4CA64</color>
+    <color name="light_yellow">#FAE29F</color>
+    <color name="lighter_yellow">#FDF3D7</color>
+    <color name="lightest_yellow">#FFFCF4</color>
 </resources>
